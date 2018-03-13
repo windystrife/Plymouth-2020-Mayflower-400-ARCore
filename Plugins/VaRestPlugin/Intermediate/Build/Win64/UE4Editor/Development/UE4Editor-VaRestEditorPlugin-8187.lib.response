@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VaRestEditorPlugin-8187.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\_UE4_SourceBuild\UnrealEngine-4.18-arcore1.0\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"J:\_ProjectGit\PlymouthARPortal\Plugins\VaRestPlugin\Intermediate\Build\Win64\UE4Editor\Development\VaRestEditorPlugin\Module.VaRestEditorPlugin.cpp.obj"
+"J:\_ProjectGit\PlymouthARPortal\Plugins\VaRestPlugin\Intermediate\Build\Win64\UE4Editor\Development\VaRestEditorPlugin\Module.VaRestEditorPlugin.gen.cpp.obj"
+"G:\_UE4_SourceBuild\UnrealEngine-4.18-arcore1.0\Engine\Intermediate\Build\Win64\UE4Editor\Development\PCLaunch.rc.res"
+"G:\_UE4_SourceBuild\UnrealEngine-4.18-arcore1.0\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"J:\_ProjectGit\PlymouthARPortal\Plugins\VaRestPlugin\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-VaRestEditorPlugin-8187.lib"
